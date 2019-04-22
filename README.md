@@ -4,4 +4,8 @@
 sa
 password
 
-www.saicmobility.com
+netstat 
+
+
+password:"110"
+username:"me"
